@@ -1,6 +1,6 @@
 ## Hey, Hello World 👋
 
-![Image](https://github.com/user-attachments/assets/409a3c29-a9eb-4b9b-a90a-6f19f3b93a9d)
+![Image](https://github.com/user-attachments/assets/781aba07-fde3-4755-a0f4-e5dfcdd4818b)
 
 - 🔭 I’m currently working with QA, but I'm  a Data Engineering in training.
 - 🌱 I’m currently learning Databricks, Apache Spark and AWS.
